@@ -1,3 +1,4 @@
+
 // 練習問題2
 
 #include <stdio.h>

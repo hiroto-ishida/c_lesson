@@ -9,7 +9,7 @@
 int main () {
 
   int price, count;
-  double base_price;
+  float base_price;
 
   printf("単価を入力してください\n");
   scanf("%d", &price);
